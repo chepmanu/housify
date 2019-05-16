@@ -1,0 +1,11 @@
+.tab-icon{ 
+    margin: 0 px-to-rem(20px);
+             /* background-color: rgba(216,216,216,0.44); */
+             padding: 3px;
+             border-radius: 50%;
+             font-size: 20px;
+   height: 30px;
+   width: 22px;
+   position: relative;
+   /* left:130%; */
+}
